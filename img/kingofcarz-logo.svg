@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="310" height="80" viewBox="0 0 310 80">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2e5cff"/>
+      <stop offset="100%" stop-color="#5ca9fb"/>
+    </linearGradient>
+  </defs>
+  <rect width="310" height="80" rx="14" fill="#fff" />
+  <text x="16" y="52" font-family="Raleway, sans-serif" font-size="44" font-weight="700" fill="url(#grad)">Kingof</text>
+  <text x="180" y="52" font-family="Raleway, sans-serif" font-size="44" font-weight="700" fill="#333">carz</text>
+</svg>
